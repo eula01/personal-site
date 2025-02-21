@@ -48,7 +48,7 @@ export default function Page() {
             <Link href="https://ebury.com" className="hover:underline" target="_blank">
               ebury.com
             </Link>
-            , vp engineering at{" "}
+            , staff engineer at{" "}
             <Link href="https://theprintspace.com" className="hover:underline" target="_blank">
               theprintspace.com
             </Link>
