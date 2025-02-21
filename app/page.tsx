@@ -5,7 +5,6 @@ const playfair = Playfair_Display({ subsets: ["latin"] })
 
 export default function Page() {
 
-
   return (
     <main
       className="min-h-screen w-full relative text-white p-8 md:p-12 lg:p-16 bg-gray-900" // Added fallback background color
